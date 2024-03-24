@@ -4,9 +4,10 @@
 
 ## 實作
 
-| branch    | Design Pattern     |
-|:--------- |:-------------------|
-| django-rp | Repository Pattern |
+| branch     | Design Pattern     |
+|:-----------|:-------------------|
+| django-rp  | Repository Pattern |
+| fastapi-rp | Repository Pattern |
 
 ## Reference
 
